@@ -24,6 +24,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # bundle to add the bootstrap framework.
 gem 'bootstrap-sass'
 gem 'devise', '~> 3.5.6'
+gem 'paperclip', github: 'thoughtbot/paperclip'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
